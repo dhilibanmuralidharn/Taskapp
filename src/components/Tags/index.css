@@ -1,0 +1,15 @@
+.tag-button {
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+  border-radius: 15px;
+  padding: 8px 12px;
+  color: white;
+}
+.isActive-button {
+  background-color: #f3aa4e;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  padding: 8px 12px;
+  color: white;
+}
